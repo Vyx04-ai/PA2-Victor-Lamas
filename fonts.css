@@ -1,8 +1,9 @@
 @font-face {
     font-family: 'tan-nimbus';
-    src: url('fonts/tan-nimbus.woff2') format('woff2'),
-        url('fonts/tan-nimbus.woff') format('woff');
+    src: url(fonts/TAN-NIMBUS.woff) format(woff);
+    src: url(fonts/TAN-NIMBUS.ttf) format(truetype);
     font-weight: 400;
     font-style: normal;
     font-display: swap;
     }
+
